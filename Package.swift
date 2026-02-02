@@ -17,14 +17,14 @@ let package = Package(
         .package(
             name: "GenesysCloudMessenger",
             url: "https://github.com/MyPureCloud/mm-genesyscloudmessenger-spm-dev.git",
-            .exact("1.20.1-snapshot-feature-embed-sample-app-61")
+            .exact("1.20.1-snapshot-feature-embed-sample-app-65")
         )
     ],
     targets: [
         .binaryTarget(
             name: "GenesysCloud",
-            url: "https://genesysdx.jfrog.io/artifactory/genesys-cloud-ios.dev/GenesysCloud/GenesysCloud_version_1.20.1-snapshot-feature-embed-sample-app-61_commit_767875732f9b6a0076c6bd83129ec691f308c1f8.zip",
-            checksum: "35c9e276648a712e98e17d049da39ede475636a24eb29717f56194904f5e8175"
+            url: "https://genesysdx.jfrog.io/artifactory/genesys-cloud-ios.dev/GenesysCloud/GenesysCloud_version_1.20.1-snapshot-feature-embed-sample-app-65_commit_4db91c4daf245db3ea3bbe98173865caa02281a6.zip",
+            checksum: "cb2fba8628052347104c0d65441885b4f24fb7dc8c3857483349b512d2713552"
         ),
         .target(
             name: "GenesysCloudWrapper",
