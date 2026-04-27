@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/MyPureCloud/mm-genesyscloudmessenger-spm-dev.git",
         "state": {
           "branch": null,
-          "revision": "29a4cfb81ee6c9acc39e254170dff9b6ebcd0561",
-          "version": "2.2.0-rc2"
+          "revision": "17a5c5cc18ba3f4f98f593018dc4f0357ce58068",
+          "version": "2.2.0-rc3"
         }
       },
       {
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/MyPureCloud/mobile-messenger-genesyscloudcore-spm-dev.git",
         "state": {
           "branch": null,
-          "revision": "fccb33709e6ef93d77d037cad2b4c11bd388213d",
-          "version": "2.2.0-rc2"
+          "revision": "4609bdc2a6b008cecddf546bc9064524e510e86e",
+          "version": "2.2.0-rc3"
         }
       }
     ]
